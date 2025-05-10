@@ -1,0 +1,38 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #212529;
+  }
+  
+  .dark-mode {
+    background-color: #212529;
+    color: #f8f9fa;
+  }
+  
+  header, footer {
+    border-radius: 0.5rem;
+  }
+  
+  h2 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #0d6efd;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .table {
+    background-color: white;
+  }
+  
